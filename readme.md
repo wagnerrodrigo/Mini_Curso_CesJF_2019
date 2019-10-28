@@ -1,1 +1,1 @@
-# MiniCurso da semana academica sobre Web Crawler
+# MiniCurso da semana acadêmico sobre Web Crawler
