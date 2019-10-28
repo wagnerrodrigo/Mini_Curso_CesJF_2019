@@ -1,0 +1,3 @@
+C:\Users\alunoces\Desktop\wag\obj\Debug\netcoreapp3.0\wag.csprojAssemblyReference.cache
+C:\Users\alunoces\Desktop\wag\obj\Debug\netcoreapp3.0\wag.AssemblyInfoInputs.cache
+C:\Users\alunoces\Desktop\wag\obj\Debug\netcoreapp3.0\wag.AssemblyInfo.cs
